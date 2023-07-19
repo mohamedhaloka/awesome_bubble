@@ -1,6 +1,6 @@
 name: awesome_bubble
 description: A Flutter Plugin to show Messenger Bubble, over all other apps.This plugin shows overlay bubble and notification.
-version: 0.0.1+3
+version: 0.0.1+4
 homepage: https://github.com/mohamedhaloka/awesome_bubble
 
 environment:
