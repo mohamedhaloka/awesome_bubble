@@ -1,3 +1,6 @@
 ## 0.0.1+1
+*  Initial release.
 
-*  Initial Release.
+## 0.0.1+2
+## 0.0.1+3
+*  Enhance package documentation.
